@@ -1,0 +1,162 @@
+[
+    {
+        "id": "01",
+        "title":"Child Support",
+        "description":"We highly recommend using Vite, Parcel, Next.js, or Remix instead of Create React App. They provide an equivalent or better developer experience but with more flexibility, giving you more control over how Tailwind and PostCSS are configured.",
+        "event date":"23-03-2024",
+        "img":"https://i.ibb.co/88fWFLJ/child-Support.png"
+
+    },
+    {
+        "id": "02",
+        "title":"Refuge shelter",
+        "description":"We highly recommend using Vite, Parcel, Next.js, or Remix instead of Create React App. They provide an equivalent or better developer experience but with more flexibility, giving you more control over how Tailwind and PostCSS are configured.",
+        "event date":"23-03-2024",
+        "img":"https://i.ibb.co/FVrLY1X/refuse-Shelter.png"
+
+    },
+    {
+        "id": "03",
+        "title":"Food Charity",
+        "description":"We highly recommend using Vite, Parcel, Next.js, or Remix instead of Create React App. They provide an equivalent or better developer experience but with more flexibility, giving you more control over how Tailwind and PostCSS are configured.",
+        "event date":"23-03-2024",
+        "img":"https://i.ibb.co/7tLk0tp/food-Charity.png"
+
+    },
+    {
+        "id": "04",
+        "title":"Host a clothing swap.",
+        "description":"We highly recommend using Vite, Parcel, Next.js, or Remix instead of Create React App. They provide an equivalent or better developer experience but with more flexibility, giving you more control over how Tailwind and PostCSS are configured.",
+        "event date":"23-03-2024",
+        "img":"https://i.ibb.co/ThVvS2x/cloth-Swap.png"
+
+    },
+    {
+        "id": "05",
+        "title":"Host a river clean-up.",
+        "description":"We highly recommend using Vite, Parcel, Next.js, or Remix instead of Create React App. They provide an equivalent or better developer experience but with more flexibility, giving you more control over how Tailwind and PostCSS are configured.",
+        "event date":"23-03-2024",
+        "img":"https://i.ibb.co/tQCVt9W/river-Clean.png"
+
+    },
+    {
+        "id": "06",
+        "title":"Clean water for children",
+        "description":"We highly recommend using Vite, Parcel, Next.js, or Remix instead of Create React App. They provide an equivalent or better developer experience but with more flexibility, giving you more control over how Tailwind and PostCSS are configured.",
+        "event date":"23-03-2024",
+        "img":"https://i.ibb.co/F7Z98Rj/clean-Water.png"
+
+    },
+    {
+        "id": "07",
+        "title":"Good education",
+        "description":"We highly recommend using Vite, Parcel, Next.js, or Remix instead of Create React App. They provide an equivalent or better developer experience but with more flexibility, giving you more control over how Tailwind and PostCSS are configured.",
+        "event date":"23-03-2024",
+        "img":"https://i.ibb.co/WFfGC8v/good-Education.png"
+
+    },
+    {
+        "id": "08",
+        "title":"New books for children",
+        "description":"We highly recommend using Vite, Parcel, Next.js, or Remix instead of Create React App. They provide an equivalent or better developer experience but with more flexibility, giving you more control over how Tailwind and PostCSS are configured.",
+        "event date":"23-03-2024",
+        "img":"https://i.ibb.co/9y0Lqkw/newBooks.png"
+
+    },
+    {
+        "id": "09",
+        "title":"Host a study group.",
+        "description":"We highly recommend using Vite, Parcel, Next.js, or Remix instead of Create React App. They provide an equivalent or better developer experience but with more flexibility, giving you more control over how Tailwind and PostCSS are configured.",
+        "event date":"23-03-2024",
+        "img":"https://i.ibb.co/pvZsG7r/study-Group.png"
+
+    },
+    {
+        "id": "010",
+        "title":"Build birdhouses for your neighbors.",
+        "description":"We highly recommend using Vite, Parcel, Next.js, or Remix instead of Create React App. They provide an equivalent or better developer experience but with more flexibility, giving you more control over how Tailwind and PostCSS are configured.",
+        "event date":"23-03-2024",
+        "img":"https://i.ibb.co/cQGGv5G/bird-House.png"
+
+    },
+    {
+        "id": "011",
+        "title":"Organize books at the library.",
+        "description":"We highly recommend using Vite, Parcel, Next.js, or Remix instead of Create React App. They provide an equivalent or better developer experience but with more flexibility, giving you more control over how Tailwind and PostCSS are configured.",
+        "event date":"23-03-2024",
+        "img":"https://i.ibb.co/WFfGC8v/good-Education.png"
+
+    },
+    {
+        "id": "012",
+        "title":"Give a seminar on driving safety.",
+        "description":"We highly recommend using Vite, Parcel, Next.js, or Remix instead of Create React App. They provide an equivalent or better developer experience but with more flexibility, giving you more control over how Tailwind and PostCSS are configured.",
+        "event date":"23-03-2024",
+        "img":"https://i.ibb.co/PMj2qX3/drive-Safety.png"
+
+    },
+    {
+        "id": "013",
+        "title":"Give free music lessons.",
+        "description":"We highly recommend using Vite, Parcel, Next.js, or Remix instead of Create React App. They provide an equivalent or better developer experience but with more flexibility, giving you more control over how Tailwind and PostCSS are configured.",
+        "event date":"23-03-2024",
+        "img":"https://i.ibb.co/Z257Y2Z/music-Lessons.png"
+
+    },
+    {
+        "id": "014",
+        "title":"Teach people how to register to vote.",
+        "description":"We highly recommend using Vite, Parcel, Next.js, or Remix instead of Create React App. They provide an equivalent or better developer experience but with more flexibility, giving you more control over how Tailwind and PostCSS are configured.",
+        "event date":"23-03-2024",
+        "img":"https://i.ibb.co/FVrLY1X/refuse-Shelter.png"
+
+    },
+    {
+        "id": "015",
+        "title":"Clean up your  local park.",
+        "description":"We highly recommend using Vite, Parcel, Next.js, or Remix instead of Create React App. They provide an equivalent or better developer experience but with more flexibility, giving you more control over how Tailwind and PostCSS are configured.",
+        "event date":"23-03-2024",
+        "img":"https://i.ibb.co/8sN9tVj/clearn-Park.png"
+
+    },
+    {
+        "id": "016",
+        "title":"Give IT help to  local adults",
+        "description":"We highly recommend using Vite, Parcel, Next.js, or Remix instead of Create React App. They provide an equivalent or better developer experience but with more flexibility, giving you more control over how Tailwind and PostCSS are configured.",
+        "event date":"23-03-2024",
+        "img":"https://i.ibb.co/2c4t7dB/ITHelp.png"
+
+    },
+    {
+        "id": "017",
+        "title":"Foster a shelter  animal.",
+        "description":"We highly recommend using Vite, Parcel, Next.js, or Remix instead of Create React App. They provide an equivalent or better developer experience but with more flexibility, giving you more control over how Tailwind and PostCSS are configured.",
+        "event date":"23-03-2024",
+        "img":"https://i.ibb.co/fxFB8TK/animal-Shelter.png"
+
+    },
+    {
+        "id": "018",
+        "title":"Babysit during PTA meetings.",
+        "description":"We highly recommend using Vite, Parcel, Next.js, or Remix instead of Create React App. They provide an equivalent or better developer experience but with more flexibility, giving you more control over how Tailwind and PostCSS are configured.",
+        "event date":"23-03-2024",
+        "img":"https://i.ibb.co/Lh830Qz/babySit.png"
+
+    },
+    {
+        "id": "019",
+        "title":"Collect stuffed animals.",
+        "description":"We highly recommend using Vite, Parcel, Next.js, or Remix instead of Create React App. They provide an equivalent or better developer experience but with more flexibility, giving you more control over how Tailwind and PostCSS are configured.",
+        "event date":"23-03-2024",
+        "img":"https://i.ibb.co/f0Yp0v3/stuffed-Animals.png"
+
+    },
+    {
+        "id": "020",
+        "title":"Collect school supplies.",
+        "description":"We highly recommend using Vite, Parcel, Next.js, or Remix instead of Create React App. They provide an equivalent or better developer experience but with more flexibility, giving you more control over how Tailwind and PostCSS are configured.",
+        "event date":"23-03-2024",
+        "img":"https://i.ibb.co/GHXGK4p/school-Suffiles.png"
+
+    }
+]
